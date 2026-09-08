@@ -1,0 +1,2 @@
+Cliente: Osvaldo Motors (Seu Osvaldo).
+Objetivo: Sistema móvel de gestão de oficina para cadastro de clientes/veículos, ordens de serviço e cobrança da taxa de +20% na mão de obra para BMW, Audi e Mercedes.  
